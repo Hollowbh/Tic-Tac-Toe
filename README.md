@@ -2,7 +2,6 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
 
-Little Tic-Tac-Toe Project <3
 ## How to even launch this shitty thingy :3 
 
 ### Prerequisites
@@ -19,3 +18,4 @@ Little Tic-Tac-Toe Project <3
 ![Shrimple](https://img.shields.io/badge/Logic-Shrimple-eb98d5?style=for-the-badge&logo=heart)
 
 (I'm Gonna Try To Change Up The UI In The Next Project, I'm Still Learning Please Don't Judge My Code TOOOOO Much :3)
+
